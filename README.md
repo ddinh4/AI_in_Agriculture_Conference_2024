@@ -1,4 +1,4 @@
-# Material for the XGBOOST Your Digital Ag Research Workshop in College Station, TX 2024
+# Material for the 2024 AI in Agriculture and Natural Resources Conference in College Station, TX
 
 This repository contains the code and sample (fake) datasets used in the ["Pre-conference Workshop 2: XGBOOST Your Digital Ag Research"](https://agriliferegister.tamu.edu/website/63088/#agenda), held on April, 15th 2024. In the workshop, we will explore the use and optimization of the XGBoost machine learning technique, alongside a comparison and optimization of the well-known Random Forest method.
 
