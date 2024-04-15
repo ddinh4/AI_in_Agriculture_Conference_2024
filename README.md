@@ -12,7 +12,7 @@ To get started, you can either clone this repository(preferable) or download the
 This repository contains sample datasets that were used during the workshop. These datasets are for educational purposes only and should not be used for any other purpose. They were generated using real values, but they are synthetic.
 
 ## Code
-This link contains the collab code: [Collab](https://colab.research.google.com/drive/1fkb_bNJG_JBqpJ6hWt3QQsLCQKOCrMK_)
+This link contains the collab code: [Colab](https://colab.research.google.com/drive/1fkb_bNJG_JBqpJ6hWt3QQsLCQKOCrMK_)
 
 
 ## Zoom Recordings:
