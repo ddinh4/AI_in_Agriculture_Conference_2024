@@ -19,7 +19,7 @@ This link contains the collab code: [Colab](https://colab.research.google.com/dr
 We attempted to record the presentation and code description during the conference. 
 
 ## Paper
-This paper is an example of how to describe hyperparameters in the methodology and some upper bounds for how many interactions we use and why. You can also find thresholds for the RF hyperparameters.
+This paper provides a detailed description of the methodology used for setting hyperparameters, establishes upper limits on the number of interactions based on justifications provided, and identifies threshold values for the random forest (RF) hyperparameters.
 [Paper](https://www.sciencedirect.com/science/article/pii/S2772375524000479)
 
 ## Credits
