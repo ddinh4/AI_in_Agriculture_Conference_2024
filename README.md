@@ -18,5 +18,9 @@ This link contains the collab code: [Colab](https://colab.research.google.com/dr
 ## Zoom Recordings:
 We attempted to record the presentation and code description during the conference. 
 
+## Paper
+This paper is an example of how to describe hyperparameters in the methodology and some upper bounds for how many interactions we use and why. You can also find thresholds for the RF hyperparameters.
+[Paper](https://www.sciencedirect.com/science/article/pii/S2772375524000479)
+
 ## Credits
 The code and presentation in this repository was created by Dr. Thanos Gentimis,  Ms. Dina Dinh, and Ms. Leticia Santos. 
