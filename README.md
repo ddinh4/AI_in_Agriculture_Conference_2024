@@ -15,12 +15,12 @@ This repository contains sample datasets that were used during the workshop. The
 This link contains the collab code: [Colab](https://colab.research.google.com/drive/1fkb_bNJG_JBqpJ6hWt3QQsLCQKOCrMK_)
 
 
-## Zoom Recordings:
-We attempted to record the presentation and code description during the conference. 
+## Recordings:
+[The recording for the presentation can be found here!](https://youtu.be/s_vjuyfKhgk?t=10787)
 
 ## Paper
-This paper provides a detailed description of the methodology used for setting hyperparameters, establishes upper limits on the number of interactions based on justifications provided, and identifies threshold values for the random forest (RF) hyperparameters.
-[Paper](https://www.sciencedirect.com/science/article/pii/S2772375524000479)
+[This paper provides a detailed description of the methodology used for setting hyperparameters, establishes upper limits on the number of interactions based on justifications provided, and identifies threshold values for the random forest (RF) hyperparameters.]
+(https://www.sciencedirect.com/science/article/pii/S2772375524000479)
 
 ## Credits
 The code and presentation in this repository was created by Dr. Thanos Gentimis,  Ms. Dina Dinh, and Ms. Leticia Santos. 
